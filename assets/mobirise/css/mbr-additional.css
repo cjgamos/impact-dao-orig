@@ -1288,14 +1288,16 @@ a {
 }
 .cid-sQ1rYnPpsb .card-text {
   color: #b026ff;
+  text-align: center;
 }
 .cid-sQ1rYnPpsb .card-title,
 .cid-sQ1rYnPpsb .iconfont-wrapper {
   color: #7db7d7;
+  text-align: center;
 }
 .cid-sQ1AJZvhlM {
   padding-top: 0rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/bricks-2000x1600.jpg");
 }
 @media (min-width: 1500px) {
