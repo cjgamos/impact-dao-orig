@@ -73,7 +73,15 @@
     ],
     "uniqCompNum": 17,
     "versionPublish": "5.5.2",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/favicon3-128x128_1.png",
+    "mbrsiteDomain": "8ai0i4iqoz",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
